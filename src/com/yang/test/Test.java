@@ -8,6 +8,7 @@ public class Test {
         System.out.println("yang lin an 0333");
         System.out.println("yang lin an 04444");
         System.out.println("yang lin an 05555");
+        System.out.println("yang lin an 066666");
     }
 
 }
